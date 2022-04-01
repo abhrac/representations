@@ -1,0 +1,11 @@
+name: representations
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.3
+  - matplotlib
